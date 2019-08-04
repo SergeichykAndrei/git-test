@@ -1,5 +1,5 @@
 public class NewClass {
     public void someMethod() {
-        System.out.println("do something12345");
+        System.out.println("do something123456789");
     }
 }
